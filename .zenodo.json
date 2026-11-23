@@ -1,0 +1,29 @@
+{
+  "title": "Dynamic electricity tariff appraisal under trial-estimated and assumed demand response",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Jafari, Hesam",
+      "affiliation": "School of Industrial Engineering, Iran University of Science and Technology",
+      "orcid": "0009-0002-5961-0201"
+    },
+    {
+      "name": "Sahebi, Hadi",
+      "affiliation": "School of Industrial Engineering, Iran University of Science and Technology",
+      "orcid": "0000-0002-0153-0420"
+    }
+  ],
+  "description": "<p>Research software for evaluating dynamic electricity tariff schedules under trial-estimated and assumed household response. The workflows cover the Low Carbon London tariff calendar, constrained monthly planning and policy learning, and conditional gas-fleet impacts in ERCOT.</p><p>The corresponding archived inputs support regeneration of the London appraisal comparisons and the ERCOT operating outcomes in the accompanying paper. The 2023 fixed-tariff validation scenarios and the frozen 2024 assessment are identified separately.</p>",
+  "keywords": [
+    "dynamic electricity tariffs",
+    "demand response",
+    "model validation",
+    "gas-fired generation",
+    "Low Carbon London",
+    "ERCOT"
+  ]
+}

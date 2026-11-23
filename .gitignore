@@ -1,0 +1,13 @@
+/data/
+/outputs/
+/docs/reports/*.md
+*.parquet
+*.npz
+*.pt
+*.zip
+*.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/

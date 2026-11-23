@@ -1,0 +1,27 @@
+[project]
+name = "ttrl"
+version = "1.0.0"
+description = "Trial-estimated price response and constrained RL tariff design with gas-fleet outcomes"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "pandas",
+    "pyarrow",
+    "duckdb",
+    "openpyxl",
+    "scipy",
+    "statsmodels",
+    "linearmodels",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+rl = ["torch", "gymnasium"]
+dev = ["pytest"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the corresponding archived version."
+title: "Dynamic electricity tariff appraisal under trial-estimated and assumed demand response"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/hexamya/trial-tariff-rl-reproducibility"
+authors:
+  - family-names: Jafari
+    given-names: Hesam
+    affiliation: "School of Industrial Engineering, Iran University of Science and Technology"
+    orcid: "https://orcid.org/0009-0002-5961-0201"
+  - family-names: Sahebi
+    given-names: Hadi
+    affiliation: "School of Industrial Engineering, Iran University of Science and Technology"
+    orcid: "https://orcid.org/0000-0002-0153-0420"
+keywords:
+  - dynamic electricity tariffs
+  - demand response
+  - model validation
+  - gas-fired generation
+  - Low Carbon London
+  - ERCOT
